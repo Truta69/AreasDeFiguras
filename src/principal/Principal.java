@@ -3,7 +3,7 @@ package principal;
 public class Principal {
 
 	public static void main(String[] args) {
-		int perimetro=4;		
+		int perimetro=10;		
 		
 		AreasCliente areaQ = areaQuadrado();
 		double quadradoA=areaQ.calcularArea(perimetro);
